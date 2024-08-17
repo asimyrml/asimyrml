@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm ASIM</h1>
-<h3 align="center">I'm a Full-Stack Developer with a strong focus on Django and Python From Turkey</h3>
+<p align="center">
+  As a passionate Full-Stack Developer from Turkey, I specialize in building robust Django-based applications. With a strong foundation in Python and a deep interest in automation, I am always eager to learn and grow in the world of programming.
+</p>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimyrml&label=Profile%20views&color=0e75b6&style=flat" alt="asimyrml" /> </p>
 
 <ul>
-    <li>🔭 I’m currently working on Django ERP Systems</li>
+    <li>🔭 I’m currently working on a Django-based ERP system, focusing on integrating real-time analytics and automation to streamline business processes.</li>
     <li>🌱 I’m currently learning C Programming Language</li>
     <li>💬 Ask me about Django and Python </li>
-    <li>📫 How to reach me asimyirmili@gmail.com</li>
+    <li>📫 How to reach me: <a href="mailto:asimyirmili@gmail.com">asimyirmili@gmail.com</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
