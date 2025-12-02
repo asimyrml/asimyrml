@@ -1,6 +1,20 @@
-<h1 align="center">Hi 👋, I'm ASIM</h1>
+<h1 align="center">Asım Yirmili</h1>
 <p align="center">
-  A passionate Full-Stack Developer from Turkey, specializing in building robust Django-based applications. With a strong foundation in Python and a deep interest in automation, I am always eager to learn and grow in the world of programming.
+  Full-Stack Developer · Backend-heavy Systems<br/>
+  Python · Django · FastAPI · React · TypeScript · Node.js
+</p>
+
+<!-- 🔹 TYPING INTRO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=200&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Building+data-driven+backend+systems" 
+    alt="Typing SVG" 
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:asimyirmili@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/asım-yirmili-b63297218" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -9,119 +23,149 @@
 
 ---
 
-## 🛠️ About Me
-- 🔭 I’m currently working on a **Django-based ERP system**, focusing on integrating real-time analytics and automation to streamline business processes.
-- 🌱 I’m currently learning **C Programming Language**.
-- 💬 Ask me about **Django and Python**.
-- 📫 How to reach me: [asimyirmili@gmail.com](mailto:asimyirmili@gmail.com)
+## 🧭 About Me
+
+I'm a full-stack developer focused on **backend-heavy products**:
+
+- 🧩 I build **Django-based business applications**: ERP, stock & order tracking, CRM, warehouse processes, returns and reporting.
+- 🧠 Currently levelling up my **systems & algorithms** skills at <strong>42 Istanbul</strong> with intensive C, Unix and low-level projects.
+- 📊 I like making products **observable and measurable**: logging, monitoring, metrics, and data-informed decisions.
+- 🛠 I enjoy turning “manual, error-prone workflows” into **automation and clean APIs**.
+- 🌍 Open to **remote/hybrid backend / full-stack roles** with Python/Django as a core stack.
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/asım-yirmili-b63297218" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 🔎 What I'm Focused On
+
+- 🏭 **Business Applications:** ERP, inventory, finance flows, logistics, warehouse operations  
+- ⚙️ **Backend Architecture:** clean modular Django apps, DRF APIs, background jobs  
+- 📈 **Data & Analytics:** reporting dashboards, prediction models, decision support  
+- 💻 **Systems & C:** shell, processes, pipes, memory management (42 school projects)  
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Tech Stack
 
-### 🖥️ Programming Languages
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+      </a>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32"/>
+      </a>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/>
+      </a>
+    </td>
+  </tr>
 
-### 🌐 Web Development
-<p align="center">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Backend & Web</strong></td>
+    <td>
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="32" height="32"/>
+      </a>
+      <a href="https://www.django-rest-framework.org/" target="_blank">
+        <img src="https://www.django-rest-framework.org/img/logo.png" alt="DRF" width="70"/>
+      </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" height="32"/>
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="32" height="32"/>
+      </a>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="40"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32" height="32"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="32" height="32"/>
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="32" height="32"/>
+      </a>
+    </td>
+  </tr>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Databases & Messaging</strong></td>
+    <td>
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+      </a>
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="32" height="32"/>
+      </a>
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
 
-### 🗄️ Databases
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>Data & ML</strong></td>
+    <td>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="32" height="32"/>
+      </a>
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="32" height="32"/>
+      </a>
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="32"/>
+      </a>
+    </td>
+  </tr>
 
-### ⚙️ Other Tools & Technologies
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-</p>
+  <tr>
+    <td><strong>DevOps & Tooling</strong></td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="32" height="32"/>
+      </a>
+      <a href="https://cloud.google.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="32" height="32"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32" height="32"/>
+      </a>
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32" height="32"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimyrml&show_icons=true&locale=en&layout=compact" alt="asimyrml" />
-</p>
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asimyrml&show_icons=true&locale=en" alt="asimyrml" />
-</p>
+- 🎓 <strong>42 Istanbul</strong> — Software Engineering (2023 – 2025)  
+- 🎓 <strong>Management Information Systems</strong> — Bachelor's Degree / Ahmet Yesevi University (Distance Education, 2024 – Present)  
+- 🎓 <strong>Control and Automation</strong> — Associate Degree / Istanbul University (2019 – 2022)  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimyrml&" alt="asimyrml" />
-</p>
+---
+
+## 🤝 Let’s Connect
+
+If you’re working on **ERP, logistics, fintech, or data-heavy backend systems** and need someone who enjoys both the coding and the architecture side, feel free to reach out:
+
+- 📧 <a href="mailto:asimyirmili@gmail.com">asimyirmili@gmail.com</a>  
+- 💼 <a href="https://linkedin.com/in/asım-yirmili-b63297218" target="_blank">LinkedIn Profile</a>  
