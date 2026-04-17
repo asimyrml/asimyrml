@@ -43,116 +43,47 @@ I'm a full-stack developer focused on **backend-heavy products**:
 - 💻 **Systems & C:** shell, processes, pipes, memory management (42 school projects)  
 
 ---
-
 ## 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
-      </a>
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32" height="32"/>
-      </a>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32"/>
-      </a>
-    </td>
-  </tr>
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-  <tr>
-    <td><strong>Backend & Web</strong></td>
-    <td>
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="32" height="32"/>
-      </a>
-      <a href="https://www.django-rest-framework.org/" target="_blank">
-        <img src="https://www.django-rest-framework.org/img/logo.png" alt="DRF" width="70"/>
-      </a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="32" height="32"/>
-      </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="32" height="32"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      </a>
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32" height="32"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="32" height="32"/>
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="32" height="32"/>
-      </a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td><strong>Databases & Messaging</strong></td>
-    <td>
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-      </a>
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="32" height="32"/>
-      </a>
-      <a href="https://redis.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
+### ⚙️ Backend & Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  <tr>
-    <td><strong>Data & ML</strong></td>
-    <td>
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="32" height="32"/>
-      </a>
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="32" height="32"/>
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="32"/>
-      </a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td><strong>DevOps & Tooling</strong></td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-      </a>
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="32" height="32"/>
-      </a>
-      <a href="https://cloud.google.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="32" height="32"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32" height="32"/>
-      </a>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32" height="32"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🗄️ Database & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+---
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+---
+
+### 🚀 DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## 🎓 Education
